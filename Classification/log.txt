@@ -1,0 +1,19 @@
+Hog: Multiscale Angle
+Interest Points Detection Total Time: 265.456101 sec
+Interest Points Detection Total Time: 330.380382 sec
+Classification Accuracy: 64.827586 %
+Classification Accuracy: 63.448276 %
+Classification Accuracy: 60.000000 %
+Classification Accuracy: 71.034483 %
+Classification Accuracy: 63.448276 %
+Average Classification Accuracy: 64.551724 %
+
+Hog: Blob-Multiscale (Normal)
+Interest Points Detection Total Time: 265.456101 sec
+Starting parallel pool (parpool) using the 'local' profile ... connected to 2 workers.
+Classification Accuracy: 67.586207 %
+Classification Accuracy: 71.034483 %
+Classification Accuracy: 65.517241 %
+Classification Accuracy: 72.413793 %
+Classification Accuracy: 70.344828 %
+Average Classification Accuracy: 69.379310 %

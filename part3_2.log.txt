@@ -1,0 +1,190 @@
+Interest Points Detection Total Time: 314.949384 sec
+Interest Points Detection Total Time: 313.136798 sec
+Starting parallel pool (parpool) using the 'local' profile ... connected to 2 workers.
+train-test ok
+lexikon ok
+Classification Accuracy: 62.068966 %
+train-test ok
+lexikon ok
+Classification Accuracy: 62.758621 %
+My Classification Accuracy: 58.620690 %
+train-test ok
+lexikon ok
+Classification Accuracy: 66.206897 %
+My Classification Accuracy: 64.827586 %
+My Classification Accuracy: 62.758621 %
+train-test ok
+lexikon ok
+Classification Accuracy: 66.206897 %
+My Classification Accuracy: 62.758621 %
+train-test ok
+lexikon ok
+Classification Accuracy: 64.827586 %
+My Classification Accuracy: 60.000000 %
+Average Classification MultAng Accuracy for SURF : 64.413793 %
+My Average Classification MultAng Accuracy for SURF : 61.793103 %
+train-test ok
+lexikon ok
+Classification Accuracy: 68.965517 %
+train-test ok
+lexikon ok
+Classification Accuracy: 71.034483 %
+My Classification Accuracy: 68.965517 %
+train-test ok
+lexikon ok
+My Classification Accuracy: 64.827586 %
+train-test ok
+lexikon ok
+Classification Accuracy: 68.275862 %
+My Classification Accuracy: 67.586207 %
+Classification Accuracy: 68.965517 %
+My Classification Accuracy: 67.586207 %
+train-test ok
+lexikon ok
+Classification Accuracy: 66.206897 %
+My Classification Accuracy: 68.965517 %
+Average Classification MultAng Accuracy for HOG : 68.689655 %
+My Average Classification MultAng Accuracy for HOG : 67.586207 %
+Interest Points Detection Total Time: 292.611287 sec
+Interest Points Detection Total Time: 280.742739 sec
+train-test ok
+lexikon ok
+Classification Accuracy: 66.206897 %
+train-test ok
+lexikon ok
+Classification Accuracy: 70.344828 %
+My Classification Accuracy: 68.965517 %
+train-test ok
+lexikon ok
+Classification Accuracy: 67.586207 %
+My Classification Accuracy: 61.379310 %
+My Classification Accuracy: 70.344828 %
+train-test ok
+lexikon ok
+Classification Accuracy: 75.172414 %
+My Classification Accuracy: 72.413793 %
+train-test ok
+lexikon ok
+Classification Accuracy: 68.965517 %
+My Classification Accuracy: 68.965517 %
+Average Classification multblob Accuracy for SURF : 69.655172 %
+My Average Classification multblob Accuracy for SURF : 68.413793 %
+train-test ok
+lexikon ok
+Classification Accuracy: 71.724138 %
+train-test ok
+lexikon ok
+Classification Accuracy: 66.206897 %
+My Classification Accuracy: 70.344828 %
+train-test ok
+Warning: Failed to converge in 100 iterations.
+> In kmeans/loopBody (line 438)
+  In internal.stats.parallel.smartForReduce (line 136)
+  In kmeans (line 316)
+  In MyBagOfWords (line 10)
+  In ClassAccuracy>makeF%1/F% (line 11)
+  In parallel_function>make_general_channel/channel_general (line 914)
+  In remoteParallelFunction (line 38) 
+lexikon ok
+Classification Accuracy: 69.655172 %
+My Classification Accuracy: 71.034483 %
+My Classification Accuracy: 66.206897 %
+train-test ok
+lexikon ok
+Classification Accuracy: 71.724138 %
+My Classification Accuracy: 69.655172 %
+train-test ok
+lexikon ok
+Classification Accuracy: 68.275862 %
+My Classification Accuracy: 71.724138 %
+Average Classification multblob Accuracy for HOG : 69.517241 %
+My Average Classification multblob Accuracy for HOG : 69.793103 %
+Interest Points Detection Total Time: 9946.253240 sec
+Interest Points Detection Total Time: 9899.186051 sec
+train-test ok
+lexikon ok
+Classification Accuracy: 66.206897 %
+train-test ok
+lexikon ok
+Classification Accuracy: 71.034483 %
+My Classification Accuracy: 64.137931 %
+train-test ok
+lexikon ok
+Classification Accuracy: 62.068966 %
+My Classification Accuracy: 67.586207 %
+My Classification Accuracy: 66.896552 %
+train-test ok
+Warning: Failed to converge in 100 iterations.
+> In kmeans/loopBody (line 438)
+  In internal.stats.parallel.smartForReduce (line 136)
+  In kmeans (line 316)
+  In MyBagOfWords (line 10)
+  In ClassAccuracy>makeF%1/F% (line 11)
+  In parallel_function>make_general_channel/channel_general (line 914)
+  In remoteParallelFunction (line 38) 
+lexikon ok
+Classification Accuracy: 67.586207 %
+My Classification Accuracy: 71.724138 %
+train-test ok
+lexikon ok
+Classification Accuracy: 68.275862 %
+My Classification Accuracy: 66.896552 %
+Average Classification multbox Accuracy for SURF : 67.034483 %
+My Average Classification multbox Accuracy for SURF : 67.448276 %
+train-test ok
+Warning: Failed to converge in 100 iterations.
+> In kmeans/loopBody (line 438)
+  In internal.stats.parallel.smartForReduce (line 136)
+  In kmeans (line 316)
+  In MyBagOfWords (line 10)
+  In ClassAccuracy>makeF%1/F% (line 11)
+  In parallel_function>make_general_channel/channel_general (line 914)
+  In remoteParallelFunction (line 38) 
+lexikon ok
+Classification Accuracy: 72.413793 %
+train-test ok
+Warning: Failed to converge in 100 iterations.
+> In kmeans/loopBody (line 438)
+  In internal.stats.parallel.smartForReduce (line 136)
+  In kmeans (line 316)
+  In MyBagOfWords (line 10)
+  In ClassAccuracy>makeF%1/F% (line 11)
+  In parallel_function>make_general_channel/channel_general (line 914)
+  In remoteParallelFunction (line 38) 
+lexikon ok
+Classification Accuracy: 66.206897 %
+My Classification Accuracy: 73.103448 %
+train-test ok
+Warning: Failed to converge in 100 iterations.
+> In kmeans/loopBody (line 438)
+  In internal.stats.parallel.smartForReduce (line 136)
+  In kmeans (line 316)
+  In MyBagOfWords (line 10)
+  In ClassAccuracy>makeF%1/F% (line 11)
+  In parallel_function>make_general_channel/channel_general (line 914)
+  In remoteParallelFunction (line 38) 
+lexikon ok
+Classification Accuracy: 64.827586 %
+My Classification Accuracy: 66.206897 %
+My Classification Accuracy: 70.344828 %
+train-test ok
+Warning: Failed to converge in 100 iterations.
+> In kmeans/loopBody (line 438)
+  In internal.stats.parallel.smartForReduce (line 136)
+  In kmeans (line 316)
+  In MyBagOfWords (line 10)
+  In ClassAccuracy>makeF%1/F% (line 11)
+  In parallel_function>make_general_channel/channel_general (line 914)
+  In remoteParallelFunction (line 38) 
+lexikon ok
+Classification Accuracy: 71.724138 %
+My Classification Accuracy: 71.034483 %
+train-test ok
+lexikon ok
+Classification Accuracy: 73.103448 %
+My Classification Accuracy: 68.965517 %
+Average Classification multbox Accuracy for HOG : 69.655172 %
+My Average Classification multbox Accuracy for HOG : 69.931034 %
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+>> 
